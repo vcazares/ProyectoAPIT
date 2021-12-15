@@ -25,8 +25,8 @@ conjunto de canciones pertenecientes a la banda “The Beatles” con el fin de 
 el cambio de emociones en sus obras a través de diferentes décadas.  
   
   
-##### _Cázares Rodríguez Víctor Manuel_
-##### _López García Juan Ángel_
-##### _Morales Mendoza Fernando_
-##### _Rivera Arellanes Josué David_
-##### _Salazar Aguilar Manuel_
+- ##### _Cázares Rodríguez Víctor Manuel_
+- ##### _López García Juan Ángel_
+- ##### _Morales Mendoza Fernando_
+- ##### _Rivera Arellanes Josué David_
+- ##### _Salazar Aguilar Manuel_
