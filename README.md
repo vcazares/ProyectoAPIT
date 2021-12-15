@@ -1,10 +1,10 @@
 # Proyecto Final de Análisis y Procesamiento Inteligente de Textos
 
-### Cázares Rodríguez Víctor Manuel
-### López García Juan Ángel
-### Morales Mendoza Fernando
-### Rivera Arellanes Josué David
-### Salazar Aguilar Manuel
+##### _Cázares Rodríguez Víctor Manuel_
+##### _López García Juan Ángel_
+##### _Morales Mendoza Fernando_
+##### _Rivera Arellanes Josué David_
+##### _Salazar Aguilar Manuel_
 
 
 El propósito fundamental del análisis inteligente de textos consiste
