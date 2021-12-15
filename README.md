@@ -21,7 +21,7 @@ para la banda o artista, sino para el entorno de estos, en este caso se tratan d
 como décadas en las cuales es posible agrupar un conjunto de documentos mediante
 los cuales se obtiene dicha información. En el desarrollo presentado en secciones pos-
 teriores se exploran los procesos necesarios para llevar a cabo dicho análisis sobre un
-conjunto de canciones pertenecientes a la banda “The Beatles” con el fin de determinar
+conjunto de canciones pertenecientes a la banda «The Beatles» con el fin de determinar
 el cambio de emociones en sus obras a través de diferentes décadas.  
   
   
