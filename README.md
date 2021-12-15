@@ -1,0 +1,4 @@
+# ProyectoAPIT
+
+El propósito fundamental del análisis inteligente de textos consiste en extraer información de utilidad, clasificar y/o interpretar el significado de cierto contenido a partir de un conjunto de datos no estructurados mediante el empleo de algoritmos numéricos. 
+En el presente trabajo, se lleva a cabo el entrenamiento de un modelo que mediante el análisis de la letra de las canciones de una banda permiten definir las palabras más representativas asociadas a cada década realizando una comparación entre estas para definir el cambio de las temáticas en las canciones de la banda. Posteriormente, el análisis mediante el método de VADER permite definir las emociones de las canciones de las bandas a través del paso del tiempo, así como realizar un análisis de la profanidad en la letra de las canciones.
