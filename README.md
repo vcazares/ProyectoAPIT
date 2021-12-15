@@ -1,12 +1,5 @@
 # Proyecto Final de Análisis y Procesamiento Inteligente de Textos
 
-##### _Cázares Rodríguez Víctor Manuel_
-##### _López García Juan Ángel_
-##### _Morales Mendoza Fernando_
-##### _Rivera Arellanes Josué David_
-##### _Salazar Aguilar Manuel_
-
-
 El propósito fundamental del análisis inteligente de textos consiste
 en extraer información de utilidad, clasificar y/o interpretar el significado de cierto
 contenido a partir de un conjunto de datos no estructurados mediante el empleo de
@@ -16,9 +9,9 @@ miten definir las palabras más representativas asociadas a cada década realiza
 una comparación entre estas para definir el cambio de las temáticas en las canciones
 de la banda. Posteriormente, el análisis mediante el método de VADER permite
 definir las emociones de las canciones de las bandas a través del paso del tiempo, así
-como realizar un análisis de la profanidad en la letra de las canciones.
-
-
+como realizar un análisis de la profanidad en la letra de las canciones.  
+  
+  
 En la actualidad existen una amplia variedad de algoritmos y aplicaciones que ofre-
 cen diferentes enfoques para la resolución de problemas y obtención de información
 clave en estos a partir de textos y su contenido. Realizar el procesamiento de la letra
@@ -29,4 +22,11 @@ como décadas en las cuales es posible agrupar un conjunto de documentos mediant
 los cuales se obtiene dicha información. En el desarrollo presentado en secciones pos-
 teriores se exploran los procesos necesarios para llevar a cabo dicho análisis sobre un
 conjunto de canciones pertenecientes a la banda “The Beatles” con el fin de determinar
-el cambio de emociones en sus obras a través de diferentes décadas.
+el cambio de emociones en sus obras a través de diferentes décadas.  
+  
+  
+##### _Cázares Rodríguez Víctor Manuel_
+##### _López García Juan Ángel_
+##### _Morales Mendoza Fernando_
+##### _Rivera Arellanes Josué David_
+##### _Salazar Aguilar Manuel_
